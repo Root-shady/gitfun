@@ -4,3 +4,11 @@
 
     git log -n 1 
     (1). The n option shows that you specify the number of git log to show.
+
+2. How to use the git push
+    The git push takes two arguments
+ The first is the remote name, and the other is the branch in the local that you want to send to the remote.
+    The git pull takes two arguments 
+ The first is the remote name, and the other is the branch you want to pull.
+ Otherwise, there could be conflicts with the local and the remote repository.
+
