@@ -4,3 +4,6 @@
 
     git log -n 1 
     (1). The n option shows that you specify the number of git log to show.
+    
+    
+2. This is the line I added in the github.
