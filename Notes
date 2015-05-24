@@ -1,0 +1,6 @@
+1. How to use the git diff to compare the commit with its parents.
+    git show commit_ID
+    (1). This commit is useful when you don't know the parent of the git commit if you merge two branches together.
+
+    git log -n 1 
+    (1). The n option shows that you specify the number of git log to show.
